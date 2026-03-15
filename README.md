@@ -15,7 +15,11 @@ Layers: HEIGHTS/PROJECTIONS ✓
 Copy FastBaseCAD.bundle → C:\ProgramData\Autodesk\ApplicationPlugins
 Restart AutoCAD → FB [Enter]
 
-## 💰 Pro License: **$29**
-**[PayPal Purchase]** (ваша PayPal ссылка)
+## 💳 **Buy Pro License ($29 USD)**
+**⏱️ Personal download link within 10 minutes after payment**
+
+[![Buy $29](https://img.shields.io/badge/PayPal-%2429-brightgreen?logo=paypal&logoColor=white)](mailto:lgphonemar24@gmail.com?subject=FastBaseCAD%20v2.1.0%20Pro&body=Hi!%0A%0AI%20want%20FastBaseCAD%20v2.1.0%20Pro%20($29%20USD)%0APlease%20send%20PayPal%20invoice.%0AThank%20you!)
+
+**✨ Personal download link for each customer only**
 
 **AutoCAD 2019-2026** | **Windows 10/11** | **by Sergey Inozemtsev**
